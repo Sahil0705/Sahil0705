@@ -1,7 +1,7 @@
 ### Hi I'm Sahil Donde 👋
 
-- 😃 I’m interested in Web development, Graphic Designing and Machine Learning related Projects
-- 🌱 I’m currently learning NodeJS, ReactJS, MongoDB and UI/UX Designing
+- 😃 I’m interested and built pojects on Web development - (NodeJS, ExpressJS, ECMAScript), Graphic Designing and Machine Learning
+- 🌱 I’m currently learning ReactJS, MongoDB and UI/UX Designing
 - 🤝 I’m looking to collaborate on open-source projects
 - 📫 How to reach me: -
 
