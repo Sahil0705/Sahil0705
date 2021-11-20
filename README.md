@@ -1,6 +1,6 @@
 ### Hi I'm Sahil Donde 👋
 
-- 😃 I’m interested and built pojects on Web Development, Graphic Designing and Machine Learning (Beginner)
+- 😃 I’m interested and have built pojects on Web Development, Graphic Designing and Machine Learning (Beginner)
 - 👨‍💻 Web development - (JavaScript, PHP, MySQL, ECMAScript, NodeJS, ExpressJS, MongoDB, Mongoose, REST API)
 - 🎨 Graphic Designing (Artworks) - https://drive.google.com/file/d/1kKPe3it_CL2yG7AF-2kidGUonH0Qrrml/view
 - 🌱 I’m currently learning ReactJS and UI/UX Designing
