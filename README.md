@@ -1,9 +1,9 @@
 ### Hi I'm Sahil Donde 👋
 
 - 😃 I’m interested and have built pojects on Web Development, Graphic Designing and Machine Learning (Beginner)
-- 👨‍💻 MERN development - (JavaScript, PHP, MySQL, ECMAScript, ReactJS, Redux, Material-UI, NodeJS, ExpressJS, MongoDB, Mongoose, REST API)
+- 👨‍💻 MERN development - (ReactJS, Redux, Material-UI, NodeJS, ExpressJS, MongoDB, Mongoose, REST API)
 - 🎨 Graphic Designing (Artworks) - https://drive.google.com/file/d/1kKPe3it_CL2yG7AF-2kidGUonH0Qrrml/view
-- 🌱 I’m currently learning ReactJS and UI/UX Designing
+- 🌱 I’m currently focussing on Problem Solving
 - 🤝 I’m looking to collaborate on open-source projects
 - 📫 How to reach me: -
 
